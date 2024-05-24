@@ -12,11 +12,6 @@ div {
     transform: translate(-50%, -50%);
     border-radius: 10px;
 }
-
-input{
-    border-radius: 3px;
-}
-
 .botão {
     border-radius: 3px;
     width: 100px;
@@ -24,4 +19,6 @@ input{
     background-color: black;
     color: white;
 }
-
+input{
+    border-radius: 3px;
+}

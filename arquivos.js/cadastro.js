@@ -36,6 +36,6 @@ document.getElementById("formulario").addEventListener("submit", function(event)
     // Armazenar username e password no localStorage
     localStorage.setItem(username, password);
     alert("Registro bem-sucedido!");
-    window.location.href = "/arquivoshtml/login.html"; // Redirecionar para a página de login após o registro bem-sucedido
-});
+    window.location.href = "C:/Users/victo/Documents/A3/teste/arquivoshtml/login.html"; // Redirecionar para a página de login após o registro bem-sucedido
 
+});
